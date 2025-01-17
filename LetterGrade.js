@@ -22,4 +22,4 @@ if (numGrade >= levelA) {
     letterGrade = "F"
 }
 
-console.log(letterGrade)
+console.log(`${numGrade}% is a letter grade of ${letterGrade}.`)
